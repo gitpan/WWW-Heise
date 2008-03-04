@@ -213,9 +213,9 @@ use strict;
 
 =head1 SEE ALSO
 
-http://www.zoozle.net
-http://www.zoozle.org
-http://www.zoozle.biz
+www.zoozle.net
+www.zoozle.org
+www.zoozle.biz
 
 NET::IPFilterSimple
 NET::IPFilter
