@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/WWW-Heise.t
+lib/WWW/Heise.pm
