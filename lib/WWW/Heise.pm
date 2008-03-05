@@ -194,7 +194,7 @@ while ( my ($url,$name)=each(%{$ResultHashRef})){
 
 =head1 DESCRIPTION
 
-WWW::GameStar - Perl extension for getting news from Gamestar.de
+WWW::Heise - Perl extension for getting news from Gamestar.de
 
 
 =head2 EXPORT
